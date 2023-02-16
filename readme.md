@@ -299,7 +299,7 @@ Sample response body :
 ---
 
 ```sh
-POST /crmservice/api/v1/tickets
+POST /crm/api/v1/tickets
 Headers :
  Content-Type:application/json
  x-access-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImN1c3RvbWVyMSIsImlhdCI6MTY1OTcwNDA3OCwiZXhwIjoxNjU5NzA3Njc4fQ.atlYh08btee-HN91sE9zkGPsnZx33nCWYk-8A0B_ZNM
