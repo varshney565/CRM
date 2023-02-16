@@ -431,7 +431,7 @@ Sample response body :
 ```sh
 GET /crm/api/v1/tickets/:ticketId
 
-GET /crmservice/api/v1/tickets/62ed134ee134ad67c6c61e68 (Example)
+GET /crm/api/v1/tickets/62ed134ee134ad67c6c61e68 (Example)
 Headers :
  Content-Type:application/json
  x-access-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwiaWF0IjoxNjU5NzAyOTQ3LCJleHAiOjE2NTk3MDY1NDd9.Bo_55aJrEGg7vLUr1pCJg4Iu2ZTMHEWLsYUo0J86KTc
